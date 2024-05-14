@@ -5,6 +5,8 @@ Console for Android written on Python (my old project)
 ### With PyDroid 3
 (https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
+Just run this.
+
 ### Other
 ```python pycmd.py```
 
